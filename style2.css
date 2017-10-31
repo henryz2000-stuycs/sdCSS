@@ -1,0 +1,19 @@
+body {
+    background: lightsteelblue;
+}
+
+p {
+    background-image: url("cat.png");
+}
+
+body:hover {
+    background-image: url("dw.jpg");
+    width: 100%;
+    height: 100%;
+}
+
+ul {
+    background-image: url("dance.png");
+    background-size: cover;
+    background-position: center center;
+}
