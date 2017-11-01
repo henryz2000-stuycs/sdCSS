@@ -1,4 +1,4 @@
-li {
+.navzone {
     animation: marquee 10s linear infinite alternate;
 }
 
@@ -11,21 +11,21 @@ li {
     }
 }
 
-h1 {
+#id {
     color: magenta;
     border-bottom: 5px solid yellow;
 }
 
-p {
+.prose {
     border: 5px solid lightsteelblue;
 }
 
-h2 {
+.content {
     color: hotpink;
     text-align: center;
     border: 5px solid green;
 }
 
-h3 {
+.extreme {
     text-align: center;
 }

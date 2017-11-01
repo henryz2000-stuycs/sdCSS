@@ -1,24 +1,24 @@
-body {
+.extreme {
     background: lightsteelblue;
 }
 
-p {
+.prose {
     background-image: url("cat.png");
 }
 
-body:hover {
+.extreme:hover {
     background-image: url("dw.jpg");
     width: 100%;
     height: 100%;
 }
 
-ul {
+.navzone {
     background-image: url("dance.png");
     background-size: cover;
     background-position: center center;
 }
 
-h1 {
+#head1 {
     text-align: right;
     transform: rotate(7deg);
 }
