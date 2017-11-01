@@ -17,3 +17,12 @@ ul {
     background-size: cover;
     background-position: center center;
 }
+
+h1 {
+    text-align: right;
+    transform: rotate(7deg);
+}
+
+h3 {
+    text-align: center;
+}
