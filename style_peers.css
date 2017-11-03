@@ -1,0 +1,36 @@
+.navzone {
+    animation: marquee 10s linear infinite alternate;
+}
+
+@keyframes marquee {
+    0% {
+	transform: translateX(90%);
+    }
+    100% {
+	transform: translateX(0%);
+    }
+}
+
+#head1 {
+    color: magenta;
+    border-bottom: 5px solid yellow;
+}
+
+.prose {
+    border: 5px dashed lightsteelblue;
+}
+
+.content {
+    color: hotpink;
+    text-align: center;
+    border: 5px solid green;
+}
+
+.extreme {
+    text-align: center;
+    text-decoration: line-through;
+}
+
+a:visited {
+    color: red;
+}
